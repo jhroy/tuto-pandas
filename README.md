@@ -11,3 +11,5 @@ Le [carnet jupyter](tutoriel.ipynb) inclus dans ce répertoire vous fait une int
 Cliquez [ici](tutoriel.ipynb), *por favor*.
 
 <hr>
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
