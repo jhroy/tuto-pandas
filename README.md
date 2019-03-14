@@ -8,7 +8,7 @@ Tutoriel d'introduction à pandas pour journalistes de données ou chercheurs en
 
 Le [carnet jupyter](tutoriel.ipynb) inclus dans ce répertoire vous fait une introduction, pas à pas, de [pandas](http://pandas.pydata.org/) ([documentation](http://pandas.pydata.org/pandas-docs/stable/index.html)), bibliothèque python permettant d'analyser et d'interroger rapidement des données. Pandas est particulièrement utile lorsqu'on a des fichiers volumineux qu'un tableur comme *Excel*, *Calc* ou *Google Sheets* a du mal à avaler.
 
-Cliquez [ici](Tutoriel pandas en français.ipynb), *por favor*.
+Cliquez [ici](Tutoriel_pandas_en_francais.ipynb), *por favor*.
 
 <hr>
 
