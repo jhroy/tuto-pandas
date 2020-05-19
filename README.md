@@ -1,6 +1,6 @@
 # tuto-pandas
 
-![Logo de pandas](http://pandas.pydata.org/_static/pandas_logo.png)
+![Logo de pandas](https://pandas.pydata.org/docs/_static/pandas.svg)
 
 Tutoriel d'introduction à pandas pour journalistes de données ou chercheurs en humanités numériques.<br>
 :panda_face: :panda_face: :panda_face:
