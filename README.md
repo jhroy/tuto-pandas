@@ -10,7 +10,7 @@ Le **[carnet jupyter](Tutoriel_pandas_en_francais.ipynb)** inclus dans ce réper
 
 Essayez aussi ces versions plus faciles à lire:
 
-- [HTML](Tutoriel_pandas_en_francais.html )
+- [HTML](http://jhroy.ca/uqam/Tutoriel_pandas_en_francais.html)
 - [markdown](version_markdown/Tutoriel_pandas_en_francais.md)
 
 Et cliquez sur :star: si le tuto vous est utile :smile_cat:
